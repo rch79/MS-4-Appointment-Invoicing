@@ -1,0 +1,1 @@
+web: gunicorn appointment_billing_assistant.wsgi
